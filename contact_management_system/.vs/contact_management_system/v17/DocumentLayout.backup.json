@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeProject\\Cplusplus_code\\contact_management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8834479F-2C54-49F1-97FB-07AD385B0100}|contact_management_system\\contact_management_system.vcxproj|D:\\codeProject\\Cplusplus_code\\contact_management_system\\contact_management_system\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8834479F-2C54-49F1-97FB-07AD385B0100}|contact_management_system\\contact_management_system.vcxproj|solutionrelative:contact_management_system\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\codeProject\\Cplusplus_code\\contact_management_system\\contact_management_system\\test.cpp",
+              "RelativeDocumentMoniker": "contact_management_system\\test.cpp",
+              "ToolTip": "D:\\codeProject\\Cplusplus_code\\contact_management_system\\contact_management_system\\test.cpp",
+              "RelativeToolTip": "contact_management_system\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T03:38:53.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
