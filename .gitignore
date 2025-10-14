@@ -1,0 +1,39 @@
+# 編譯輸出檔案
+*.exe
+*.obj
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.lib
+*.pdb
+
+# 編譯臨時檔案與資料夾
+/build/
+bin/
+debug/
+Debug/
+release/
+Release/
+x64/
+x86/
+
+# Visual Studio / VS Code / CLion 相關
+.vscode/
+.idea/
+*.user
+*.suo
+*.vcxproj*
+*.code-workspace
+
+# 系統暫存與備份
+Thumbs.db
+*.tmp
+*.log
+*.bak
+*.swp
+
+# macOS / Windows
+.DS_Store
+desktop.ini
