@@ -26,6 +26,9 @@ x86/
 *.suo
 *.vcxproj*
 *.code-workspace
+*.vsidx
+*.ipch
+*.db
 
 # 系統暫存與備份
 Thumbs.db
